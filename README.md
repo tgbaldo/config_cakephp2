@@ -1,7 +1,7 @@
 # config_cakephp2
 Passo a passo para configurar a aplicação CakePHP 2.x
 
-## composer.json
+### composer.json
 {
   "name": "my_app",
   "require": {
@@ -12,10 +12,10 @@ Passo a passo para configurar a aplicação CakePHP 2.x
   }
 }
 
-## criando um projeto
+### criando um projeto
 Vendor/bin/cake bake project .
 
-## configurando o bootstrap com autoload do composer
+### configurando o bootstrap com autoload do composer
 // Load Composer autoload.
 require APP . 'Vendor/autoload.php';
 
