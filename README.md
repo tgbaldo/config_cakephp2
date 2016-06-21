@@ -11,3 +11,6 @@ Passo a passo para configurar a aplicação CakePHP 2.x
     "vendor-dir": "Vendor/"
   }
 }
+
+## criando um projeto
+Vendor/bin/cake bake project .
